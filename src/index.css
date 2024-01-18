@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ #test{
+    font-family:  'Poppins';
+
+
+ }
+
+#root{
+ background-color:  rgb(17 24 39);
+ 
+}
+
+
+html{
+   overflow: scroll;
+   overflow-x: hidden;
+
+}
+
+::-webkit-scrollbar{
+   width: 0px;
+   background: transparent;
+}
+/* ::-webkit-scrollbar-thumb{
+   width: 0;
+   background: transparent;
+} */
