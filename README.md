@@ -12,8 +12,8 @@ Installation
 Follow these simple steps to set up DisneyClone on your local machine:
 
 
-<video src="./public/Recording%202024-01-21%20001630.mp4" controls title="Title"></video>
-
+![Alt text](<src/assets/images/Screenshot (1).png>) ![Alt text](<src/assets/images/Screenshot (2).png>) ![Alt text](<src/assets/images/Screenshot (3).png>) 
+[Title](README.md)
 Clone the Repository:
 
 Open bash
@@ -30,8 +30,8 @@ Create a .env file in the root directory.
 Add the following variables:
 env
 
-REACT_APP_API_KEY=your_movie_db_api_key
-REACT_APP_BASE_URL=https://api.themoviedb.org/3
+REACT_APP_API_KEY=your_movie_db_api_key /
+REACT_APP_BASE_URL=https://api.themoviedb.org/3 /
 
 Start the Application:
 npm start
