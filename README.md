@@ -12,7 +12,7 @@ Installation
 Follow these simple steps to set up DisneyClone on your local machine:
 
 
-<video src="Recording%202024-01-21%20001630.mp4" controls title="Title"></video>
+<video src="./public/Recording%202024-01-21%20001630.mp4" controls title="Title"></video>
 
 Clone the Repository:
 
